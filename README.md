@@ -28,6 +28,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusFLemma&show_icons=true&theme=tokyonight" al="Status de Matheus"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLemma&layout=compact&theme=tokyonight" al="Linguagens mais usadas por Matheus"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusFLemma&show_icons=true&theme=tokyonight" alt="Status de Matheus"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLemma&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Matheus"/>
 </p>
