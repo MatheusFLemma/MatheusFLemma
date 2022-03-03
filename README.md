@@ -1,4 +1,4 @@
-<img align="right" height="auto" src="https://raw.githubusercontent.com/gist/MatheusFLemma/e322dd3ffc21f1ad4c3336009ef081d3/raw/ceac3b1b8f867e114e5ce72e3293c3d184b0b9ee/githubcard.svg" />
+<img align="right" height="auto" width="30%" src="https://raw.githubusercontent.com/gist/MatheusFLemma/e322dd3ffc21f1ad4c3336009ef081d3/raw/ceac3b1b8f867e114e5ce72e3293c3d184b0b9ee/githubcard.svg" />
 <h1 align="left">Olá Dev's <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, eu sou Matheus</h1>
 
 - 🖥️ Desenvolvedor Front-End iniciante
